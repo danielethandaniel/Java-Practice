@@ -1,0 +1,1 @@
+This repository hosts all my source codes throughout my Java learning career. It covers basic syntax, object-oriented programming, Java collections, Lambda, Stream, MyBatis-Plus, method reference demos, algorithm exercises and practical mini projects.
